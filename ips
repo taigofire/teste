@@ -1,0 +1,386 @@
+#EXTINF:-1 tvg-logo="" group-title="LEGENDADO", Godzilla vs Kong - 2021
+https://delivery.canais.ink/RCFServer5/ondemand/GDZLAVSKNGLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetv.png" group-title="CANAL ABERTO",RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvsudoeste.png" group-title="CANAL ABERTO",RedeTV! Paraná - TV Sudoeste
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvbaiana.png" group-title="CANAL ABERTO",TV Baiana
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",Record
+http://158.58.172.5:8081/look/record/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",Record
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",Multishow
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO",TV Gazeta SP
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="CANAL ABERTO",TV Brusque
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvmarajoara.png" group-title="CANAL ABERTO",TV Marajoara - Rede Brasil
+http://video01.tvdigitalhd.org/arian94818/arian94818/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="MEXICO",Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvers.png" group-title="CANAL ABERTO",TVE-RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvuniao.png" group-title="CANAL ABERTO",TV União
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redemeionorte.png" group-title="CANAL ABERTO",Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/metropole.png" group-title="CANAL ABERTO",TV Metrópole
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvguarany.png" group-title="WEBTV",TV Guarany
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png"  group-title="CANAL ABERTO",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aparecidahd.png" group-title="RELIGIOSO",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO",Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/rit.png" group-title="RELIGIOSO",RIT
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="RELIGIOSO",Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="RELIGIOSO",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/mundial.png" group-title="RELIGIOSO",IMPD TV
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/novotempo.png" group-title="RELIGIOSO",TV Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/dQv2mX8DSK/a6964W8xUin8LJs8.png" group-title="CANAL ABERTO",TV Transamérica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redesuper.png" group-title="RELIGIOSO",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvguara.png" group-title="JORNALISMO",TV Guará
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO",Record News ES
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES",SporTV
+http://hls.fearfulale.xyz/s/ch0005276/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES",Premiere
+http://158.58.172.5:8081/look/pfc2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/combate.png" group-title="ESPORTES",Combate
+http://hls.fearfulale.xyz/s/ch0003660/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES",FoxSports
+http://95.141.35.86:8081/look/foxsports1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/realmadrid.jpg" group-title="ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="MUSICA",Virgin TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/sh1ip2DP5J/8jScIxZVtuPkIwxY.JPG" group-title="INFANTIL",Retrô Cartoon
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="MUSICA",HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="MUSICA", Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/M2o-radio.jpg" group-title="MUSICA Italia",  M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="MUSICA",Retrô TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/89tXWicGke/tmTcKXThqKnJUQzE.png" group-title="MUSICA",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="MUSICA",DanceTV
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="MUSICA",Capital TiVù
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/AJ7bxR6dq6/B041Wsxo9yZayY64.png" group-title="CANAL ABERTO",SescTV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvi.png" group-title="PORTUGAL",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvi24.png"  group-title="PORTUGAL",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-3/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/abcnews.png" group-title="EUA",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cbsnews.png" group-title="EUA",CBS News HD (KODI)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bbcnewsworld.png" group-title="UK",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="EUA",Animal Planet L!VE HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="KOREA",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://listaiptvbrasil.com/logo/canalrural.png"  group-title="VARIEDADES",Canal Rural
+http://67149o.ha.azioncdn.net/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/UIWkcVhcys/9SuJmZh7iLA4qJZ8.png" group-title="CANAL ABERTO",TV Feliz
+http://172.93.110.130:1935/tvfelizrn/tvfelizrn/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/r6DXa5Jq48/mv4HWFBEWseu2KJj.png" group-title="VARIEDADES",TV Ourinhos
+http://xtvourinhoscanal10x.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bhnewstv.png" group-title="VARIEDADES",BH News
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/viamorena.png" group-title="WEB TV",Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/pontanegranews.png" group-title="WEBTV",Ponta Negra News
+http://184.172.23.109:1935/live/tvmix02/tvmix02/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/livretv.png" group-title="CANAL ABERTO",Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/multitv.png" group-title="CANAL ABERTO",Mult TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgeral.png" group-title="CANAL ABERTO",TV Geral BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" group-title="WEBTV",TV Japi
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bemtv.png" group-title="CANAL ABERTO",SBT MS
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Abertos",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/sqldya1m5/TV_Seculo_21.png" group-title="Canais Abertos",TV Seculo 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8 
+ 
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/5yxmgy.jpg"group-title="Canais Abertos",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/tqynqozot/Rede_Minas.png" group-title="Canais Abertos",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/tsd6xuqwd/Rede_RCT.jpg" group-title="Canais Abertos",Rede RCT
+http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/srcy8q9wt/Rede_Familia.png" group-title="Canais Abertos",Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/y4sP1gZ.png" group-title="Noticias", BBC News
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+ 
+#EXTINF:-1 tvg-logo="http://blog.concorrenciacriativa.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAL ABERTO",RECORD
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/IPTVGlobal.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3GpAjxO.png" group-title="CANAL ABERTO", NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvnbr/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jmdBiDJ.png" group-title="CANAL ABERTO", NTV
+rtmp://srv02.brasilstream.com.br/live/ntv/ playpath=ntv swfUrl=http://painel.brasilwork.com.br/modulos/player/flowplayer/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://painel.brasilwork.com.br/modulos/player/ntv/ntv/344/230
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ULfAKOnOJ7Y/Vkjh7uxPqrI/AAAAAAAAA7k/dBqL1WGBjI0/s1600/TV_Brasil_logo.png" group-title="CANAL ABERTO", TV Brasil HD
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://leilao.sba1.com/img/canais/agro-canal-logo-copy.jpg" group-title="CANAL ABERTO",AGRO CANAL
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_TV_Di%C3%A1rio.png" group-title="CANAL ABERTO", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcamara.cmsjp.com.br/imagens/2011/08/logo.png" group-title="CANAL ABERTO", TV CAMARA 1
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvcamara.cmsjp.com.br/imagens/2011/08/logo.png" group-title="CANAL ABERTO", TV CAMARA 2
+http://stream2.camara.leg.br:80/tv2/manifest.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.camaraconchas.sp.gov.br/Figuras/TV_Assembleia_SP_61_2__2015.jpg" group-title="CANAL ABERTO", TV ASSEMBLEIA SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/300px-TVUConcepcionLogo.png" group-title="CANAL ABERTO", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5476b50fe4b0550e12ea56df/555a8a12e4b05f132d13ed61/555ada9de4b0ecd2e3b6cdd0/1432017600731/logo_abc_news.png" group-title="NOTICIAS", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://goo.gl/ODkETM" group-title="NOTICIAS",Record News
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://goo.gl/ODkETM" group-title="NOTICIAS",Record News
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/y4sP1gZ.png" group-title="NOTICIAS", BBC News
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eNiS8pq.jpg" group-title="NOTICIAS", Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/4/6/46720/virgin.png" group-title="MUSICA",Virgin 1
+rtmp://tv.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml pageUrl=http://www.vertvgratuita.com/cn/inicial2.htm
+ 
+#EXTINF:-1 tvg-logo="http://tvtvtv.ru/icons/logo_327.png" group-title="MUSICA", Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+#EXTINF:-1 tvg-logo="http://www.srhome.co.th/backend/data-file/subgroups/subgroups82_1.png" group-title="MUSICA", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Mtmlazw.jpg" group-title="RELIGIOSO", TV Mundial
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://static.redevida.com.br/img/fb_placeholder.png" group-title="RELIGIOSO", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="RELIGIOSO", CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="MUSICA",Multishow
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/toptv.png" group-title="CANAL ABERTO",TOP TV
+http://stmv4.sateg.com.br/top/top/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUSC
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES",SporTV
+http://hls.fearfulale.xyz/s/ch0005276/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/TAWL5ViZKnI/AAAAAAAAAN4/z1PHYTeOvVM/s1600/fox-canal-logo-web-online-ao-vivo-streaming.png" group-title="FILMES",Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/RRGSLkRCr8/KBpnydHkgy2os13K.png" group-title="FILMES",Universal Channel
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="INFANTIL",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/4F32KnFQFb/nDsYHifKpFOSceBQ.png" group-title="INFANTIL",Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/sh1ip2DP5J/8jScIxZVtuPkIwxY.JPG" group-title="INFANTIL",Retrô Cartoon
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/clipes.png" group-title="MUSICA",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/M2o-radio.jpg" group-title="MUSICA Italia",  M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="MUSICA",Retrô TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/rt.png" group-title="RUSSIA",RT Documentary Channel
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/gametv.png" group-title="RUSSIA",Game Show TV - Russía
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/historylab.png" group-title="ITALIA",History Lab - Itália
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/france.png" group-title="FRANÇA",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aljazeera.png" group-title="ARABIC",Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aljazeeradoc.png" group-title="ARABIC",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bhnewstv.png" group-title="VARIEDADES",BH News
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/livretv.png" group-title="CANAL ABERTO",Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+ 
+#EXTINF:0 type="favorites" channelId="2467" tvg-name="Tv Cultura" tvg-group="Canais abertos" , Tv Cultura HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+ 
+#EXTINF:0 type="favorites" tvg-group="Religiosos" tvg-logo="http://s20.postimg.org/66ieh36wd/portalgospeltv.png" , Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" channelId="2624" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/pirdnrjxp/SESC_TV.png" , SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" , TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" , TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/kc0ijy1bp/TV_Indaiatuba.png" , TV Indaiatuba
+http://172.93.110.130:1935/esporte/esporte/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/ovcr5gj79/TV_Guarany.png" , TV Guarany
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s12.postimg.org/81pdogngt/TV_Est_dio_Brasil.png" , TV Estúdio Brasil
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" , TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s18.postimg.org/dch9vxnyx/Multi_TV.png" , MultiTV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" channelId="2630" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/5aqifdmlp/Canal_Do_Boi.png" , Canal Do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/pksf89d4d/Canal_Rural_X.png" , Canal Rural X
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 type="favorites" channelId="2459" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/lw2q8s33h/TV_Di_rio.png" , TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+ 
+#EXTINF:-1,  CLASS TV MODA 
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+ 
+#EXTINF:0 type="favorites" channelId="2906" , EI Maxx 2
+http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
+ 
+#EXTINF:-1, SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?IPTVONLINE
